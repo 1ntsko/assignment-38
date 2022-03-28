@@ -1,5 +1,5 @@
-import { Detail } from './../models/details.model';
-import { DetailsService } from './../services/details.service';
+import { Detail } from '../../models/details.model';
+import { DetailsService } from '../../services/details.service';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
